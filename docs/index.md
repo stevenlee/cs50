@@ -1,17 +1,21 @@
-# Welcome to MkDocs
+# CS50 Learning Note
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+Try to figure out the best way of learning CS for native internet kids.
 
-## Commands
+## Topics
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+### Python and C
 
-## Project layout
+### HTML, CSS and Javacript
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### Flask
+
+
+## Resouces
+
+### CS50
+
+CS50 provides IDE, sandbox, command line tools...
+[CS50 docs](https://cs50.readthedocs.io/)
+
+[CS50 IDE](https://ide.cs50.io/)
